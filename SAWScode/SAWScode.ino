@@ -1,10 +1,22 @@
 /*
  * Project: SAWS - V35c (CLEAN EDITION)
  * -------------------------------------
- * Features:
- * - Vertical Language Menu (Elevator)
- * - Full text for Temperature
- * - Clean formatting (1 instruction per line)
+ * Author : Felix P - DautzeJAVA
+ * -------------------------------------
+ * List of components :
+  -Arduino Pro Mini 5V
+  -Breadboard
+  -BME 680 (Weather sensor)
+  -GUVA S12SD (UV sensor)
+  -B10K
+  -TP4056
+  -MT3608
+  -Li-ion battery from JBL WAVE BEAM case
+  -LCD screen : 1602A
+  -JOYSTICK
+  -Resistors 
+  -Solar panel (3W 6V)
+  -A plastic case
  */
 
 #include <LiquidCrystal.h>
